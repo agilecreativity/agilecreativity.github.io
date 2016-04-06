@@ -1,5 +1,9 @@
 ### README.md
 
+### Tips and Howtos
+
+- [Quickly search and replace multple string with Vim and some useful rubygems](articles/search-and-replace.md)
+
 #### Links to some of my open-source contribution in one place
 
 List of my [ruby gems](https://rubygems.org/profiles/agilecreativity#)
